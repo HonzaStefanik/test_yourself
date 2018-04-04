@@ -2,7 +2,7 @@
 
 ## CZ
 
-Tento projekt byl vytvořen jako součást středoškolské odborné činnosti a následně použit jako má mmaturitní práce na SPŠ Ostrov v roce 2017.
+Tento projekt byl vytvořen jako součást středoškolské odborné činnosti a následně použit jako má maturitní práce na SPŠ Ostrov v roce 2017.
 
 
 #### Poznámka
